@@ -7,7 +7,7 @@
 
   "manifest_version": 2,
   "name": "Pinned WhatsApp Web",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "description": "Go to the pinned WhatsApp Web tab. If it doesn't exist, it's created.",
 
   "icons": {
