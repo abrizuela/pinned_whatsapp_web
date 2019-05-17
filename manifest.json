@@ -16,8 +16,7 @@
   },
   
   "permissions": [
-    "tabs",
-    "https://web.whatsapp.com/*"
+    "tabs"
   ],
 
   "browser_action": {
